@@ -1,8 +1,8 @@
-# tiles Game 
+# Tiles Game 
 
-### introduction to the game
-This is a tiles game, similar to the new york times game
-There are 6 rows and 5 columns of tile, each tile is build from 3 rectangulars, colored in different colors.
+### Introduction to the game
+This is a tiles game, similar to the New York Times game
+There are 6 rows and 5 columns of tile, each tile is built from 3 rectangulars, colored in different colors.
 There are total of five colors and the tiles get the colors randomly.
 
 ### How to play
