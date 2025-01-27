@@ -20,7 +20,7 @@ The Tiles Game is a puzzle game similar to the New York Times tile-matching game
 4. **Empty Tile**:  
    - If you finish a move on an empty tile, you can start from any tile on the board without losing your score.
 
----
+--
 
 ### Winning the Game
 To win, clear all the tiles on the board. If you remove all elements from all tiles, you finish the game and win! 🎉  
