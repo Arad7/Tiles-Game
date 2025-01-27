@@ -1,26 +1,34 @@
-# Tiles Game 
+# tiles Game 
 
-### Introduction to the game
-This is a tiles game, similar to the New York Times game
-There are 6 rows and 5 columns of tile, each tile is built from 3 rectangulars, colored in different colors.
-There are total of five colors and the tiles get the colors randomly.
+### About the Game
+The Tiles Game is a puzzle game similar to the New York Times tile-matching game. The board consists of 6 rows and 5 columns, making up a total of 30 tiles. Each tile is made up of 3 rectangles, each colored randomly from a set of five colors. The tiles and their colors are randomly generated at the start of the game, ensuring a unique challenge every time.
 
-### How to play
-Use the mouse to click on the tiles.
-Select any two tiles to remove all shared content and increase your score by one.
-Shared content will be same size of the rectangular in a tile and filled in the same color.
-If two tiles matched (they have elements in common), it will remove the shared elements,
-add 1 to your score and will set second tile as the new selected tile, and the user
-will need to choose another tile that match this second tile.
-If you press on tiles that do not match, your score will set to 0.
-If your score set to 0, your high score will still be saved.
-If you end your move on an empty tile, you can start again from any tile without losing your score.
+---
 
-### How to win
-If you clear all the board, you finish the game and win.
+## How to Play  
+1. **Select Tiles**:  
+   - Use your mouse to click on tiles.  
+   - Select any **two tiles** that share common elements (same size and color of rectangles) to remove the shared elements and score **+1 point**.  
 
-### Quick details
-There are 30 tiles (6 rows, 5 columns)
-The tiles and colors are randomly generated.
-There are even number from each element, so you can finish the game in one go.
-You can see the selected tile as it have different stroke colors (black)
+2. **Matching Rules**:  
+   - If the two selected tiles **match**, the shared elements are removed, your score increases by **1**, and the **second tile** becomes the active tile.  
+   - You must then select another tile that matches the active tile.  
+
+3. **Mismatch Rules**:  
+   - If the two selected tiles do **not match**, your score is reset to **0**, but your **high score** is saved.  
+
+4. **Empty Tile**:  
+   - If you finish a move on an empty tile, you can start from any tile on the board without losing your score.
+
+---
+
+### Winning the Game
+To win, clear all the tiles on the board. If you remove all elements from all tiles, you finish the game and win! 🎉  
+
+---
+
+## Key Features 
+- **30 Tiles**: The board consists of 6 rows and 5 columns.  
+- **Randomly Generated**: The tiles and colors are randomized at the start of each game.  
+- **Guaranteed Matches**: The board is designed to ensure there are even numbers of each element, so the game can be completed in one go.  
+- **Selected Tile Indicator**: The selected tile is highlighted with a black stroke to make it easy to identify. 
