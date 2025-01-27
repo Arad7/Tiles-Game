@@ -3,7 +3,7 @@
 ### About the Game
 The Tiles Game is a puzzle game similar to the New York Times tile-matching game. The board consists of 6 rows and 5 columns, making up a total of 30 tiles. Each tile is made up of 3 rectangles, each colored randomly from a set of five colors. The tiles and their colors are randomly generated at the start of the game, ensuring a unique challenge every time.
 
-
+---
 ## How to Play  
 1. **Select Tiles**:  
    - Use your mouse to click on tiles.  
@@ -19,10 +19,10 @@ The Tiles Game is a puzzle game similar to the New York Times tile-matching game
 4. **Empty Tile**:  
    - If you finish a move on an empty tile, you can start from any tile on the board without losing your score.
 
-
+---
 ## Winning the Game
 To win, clear all the tiles on the board. If you remove all elements from all tiles, you finish the game and win! 🎉  
-
+---
 
 ## Key Features 
 - **30 Tiles**: The board consists of 6 rows and 5 columns.  
